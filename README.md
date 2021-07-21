@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Randerspl
-- 👀 I’m interested in Scala, Java, JS, devOps and more
+- 👀 I’m interested in Scala, Java, JS, DevOps and more
 - 🌱 I’m currently learning how to earn one million dolars
 - 💞️ I’m looking to collaborate on anything 
 
