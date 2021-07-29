@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Randerspl
 - 👀 I’m interested in Scala, Java, JS, DevOps and more
-- 🌱 I’m currently learning how to earn one million dolars
+- 🌱 I’m currently learning how to earn one million dollars
 - 💞️ I’m looking to collaborate on anything 
 
 <!---
